@@ -3,5 +3,6 @@ CREATE TABLE projects (
   title TEXT,
   category TEXT,
   funding_goal FLOAT,
-  start_date DATE
+  start_date DATE,
+  end_date DATE
   );
