@@ -18,4 +18,4 @@ CREATE TABLE pledges (
   amount FLOAT,
   user_id INTEGER,
   project_id INTEGER
-)
+);
