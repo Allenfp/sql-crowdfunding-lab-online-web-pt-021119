@@ -21,7 +21,7 @@ VALUES
   ("s",29),
   ("u",24);
   
-  INSERT INTO users (title,funding_goal,start_date,end_date)
+  INSERT INTO projects (title,funding_goal,start_date,end_date)
 VALUES
   ("a",21,"2016-12-25","2017-1-25"),
   ("b",22,"2016-12-25","2017-1-25"),
