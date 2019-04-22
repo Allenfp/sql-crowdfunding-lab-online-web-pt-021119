@@ -35,7 +35,7 @@ VALUES
   ("10",20,"2016-12-25","2017-1-25");
   
   
-  INSERT INTO pledges (CREATE TABLE pledges (amount, user_id,project_id)
+  INSERT INTO pledges (amount, user_id,project_id)
 VALUES
   (5,"a","1"),
   (15,"b","2"),
